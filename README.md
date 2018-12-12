@@ -30,20 +30,23 @@ The problem was divided into several steps:
 
 ## Result
 
-**The movies' rating that a specific user gave**  
-
+**The movies' rating that a specific user gave**
+  
 ![picture3](https://user-images.githubusercontent.com/45834302/49903780-47bc1e00-fe36-11e8-83d1-d8f338d4fbab.png)
 
-**The movies' rating based on User-User Collaborative Filtering**  
 
+**The movies' rating based on User-User Collaborative Filtering**
+  
 ![picture4](https://user-images.githubusercontent.com/45834302/49903784-4985e180-fe36-11e8-8753-5ab31727ff98.png)
 
-**The movies' rating based on Item-item collaborative filtering**  
 
+**The movies' rating based on Item-item collaborative filtering**
+  
 ![picture5](https://user-images.githubusercontent.com/45834302/49903786-4b4fa500-fe36-11e8-81ae-0139009dafe8.png)
 
-**The Predicted Rating vs Users Rating based on Item-based Recommendation System**  
 
+**The Predicted Rating vs Users Rating based on Item-based Recommendation System**
+  
 ![picture6](https://user-images.githubusercontent.com/45834302/49904013-e8aad900-fe36-11e8-91c3-f69052248c66.png)
 
 ## Future Works
