@@ -26,3 +26,8 @@ The problem was divided into several steps:
 
 **Using Pearson Correlation Coefficient**
 
+![picture2](https://user-images.githubusercontent.com/45834302/49903692-06c40980-fe36-11e8-98c1-c60a935336c0.png)
+
+## Result
+
+
