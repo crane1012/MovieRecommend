@@ -8,8 +8,8 @@
 
 * The main objective of this project is to build the Movie Recommendation Systems using the MovieLens data set. 
 * The recommendation system shall predict the ratings of a movie that the user haven’t seen yet.
-* Using both user-user approach and item-item approach 
-![alt text](https://drive.google.com/open?id=1tg2rCrZD9lR19iWwIVFLfdpwjbpPt5Y9)
+* Using both user-user approach and item-item approach.
+
 ## Approach
 
 The problem was divided into several steps:
@@ -17,7 +17,9 @@ The problem was divided into several steps:
 1. **Data preprocessing:** Data was relabeled, shrinked, converted to HashMaps, and get rid of useless information.
 2. **User-User Collaborative Filtering:** The algorithm uses that logic and recommends items by finding similar users to the active user to whom we are trying to recommend a movie.
 3. **Item-item collaborative filtering:** The algorithm chooses items for a user, because this user has liked similar items in the past.
+4. **WordCloud:** The font size is larger as the frequency of the keywords increase.
 
+![picture1](https://user-images.githubusercontent.com/45834302/49903367-fc554000-fe34-11e8-925a-335c80380114.png)
 
 ### Installing
 
