@@ -1,9 +1,9 @@
 # Movie Recommendation System using the MovieLens data set
 
-**CSC 440 Final Project**
-**Instructor:** T. F. Pawlicki, PhD
-**Team Member:** Haoyu Li &Zenghe Huang
-**Date:** 12/12/2018
+**CSC 440 Final Project**  
+**Instructor:** T. F. Pawlicki, PhD  
+**Team Member:** Haoyu Li &Zenghe Huang  
+**Date:** 12/12/2018  
 
 ## Objective
 
