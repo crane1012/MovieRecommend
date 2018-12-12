@@ -43,3 +43,11 @@ The problem was divided into several steps:
 ![picture5](https://user-images.githubusercontent.com/45834302/49903786-4b4fa500-fe36-11e8-81ae-0139009dafe8.png)
 
 **The Predicted Rating vs Users Rating based on Item-based Recommendation System**  
+
+![picture6](https://user-images.githubusercontent.com/45834302/49904013-e8aad900-fe36-11e8-91c3-f69052248c66.png)
+
+## Future Works
+
+* Cold-Start Problem, if we do not have enough data, there is no way for us to calculate the correlations
+* We could using Bayesian approach by putting a prior to the average
+* Optimize the time complexity of the algorithm
