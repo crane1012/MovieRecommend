@@ -46,7 +46,6 @@ The problem was divided into several steps:
 
 
 **The Predicted Rating vs Users Rating based on Item-based Recommendation System**
-  
 ![picture6](https://user-images.githubusercontent.com/45834302/49904013-e8aad900-fe36-11e8-91c3-f69052248c66.png)
 
 ## Future Works
